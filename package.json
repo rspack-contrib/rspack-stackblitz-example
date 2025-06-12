@@ -21,7 +21,7 @@
   },
   "pnpm": {
     "overrides": {
-      "@rspack/core": "npm:@rspack-canary/core@1.3.16-canary-34e5ff4a-20250612073343"
+      "@rspack/core": "npm:@rspack-canary/core@1.3.16-canary-c65a62b7-20250612113218"
     },
     "peerDependencyRules": {
       "allowAny": [
