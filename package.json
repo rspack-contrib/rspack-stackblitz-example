@@ -8,15 +8,15 @@
     "preview": "rspack preview"
   },
   "dependencies": {
-    "@rspack/cli": "latest",
-    "@rspack/core": "latest",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "@rspack/cli": "^1.4.11",
+    "@rspack/core": "^1.4.11",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
   },
   "devDependencies": {
-    "@rspack/plugin-react-refresh": "latest",
-    "@types/react": "^19.1.8",
-    "@types/react-dom": "^19.1.6",
+    "@rspack/plugin-react-refresh": "^1.4.3",
+    "@types/react": "^19.1.9",
+    "@types/react-dom": "^19.1.7",
     "react-refresh": "^0.17.0"
   },
   "pnpm": {
@@ -25,6 +25,5 @@
         "wasm32"
       ]
     }
-  },
-  "packageManager": "pnpm@10.12.4+sha512.5ea8b0deed94ed68691c9bad4c955492705c5eeb8a87ef86bc62c74a26b037b08ff9570f108b2e4dbd1dd1a9186fea925e527f141c648e85af45631074680184"
+  }
 }
